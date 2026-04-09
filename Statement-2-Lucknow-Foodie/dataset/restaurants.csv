@@ -1,0 +1,363 @@
+name,location,area,price_range,veg,special_dishes,rating,vibe,reviews
+Tunday Kababi,Aminabad,Central,300,false,Galouti Kebab;Biryani,4.7,Street Food,Legendary kebabs
+Royal Cafe,Hazratganj,Central,250,true,Basket Chaat,4.5,Casual,Famous chaat
+Dastarkhwan,Hazratganj,Central,400,false,Biryani;Korma,4.6,Family,Authentic Mughlai
+Idris Biryani,Chowk,Old Lucknow,200,false,Biryani,4.4,Street Food,Budget biryani
+Cafe Hons,Gomti Nagar,East,300,true,Pizza;Pasta,4.3,Cafe,Cozy
+Cherry Tree Cafe,Gomti Nagar,East,400,true,Desserts;Italian,4.4,Romantic,Great ambience
+Sky Glass Brewing,Gomti Nagar,East,800,false,Continental,4.5,Lounge,Rooftop vibe
+Hazelnut Factory,Gomti Nagar,East,500,true,Desserts;Coffee,4.6,Cafe,Best desserts
+Burger King,Phoenix Mall,East,300,true,Burgers,4.2,Fast Food,Quick bites
+Dominos,Multiple,All,300,true,Pizza,4.1,Fast Food,Reliable
+Moti Mahal,Hazratganj,Central,600,false,Butter Chicken,4.5,Fine Dining,Classic
+Barbeque Nation,Gomti Nagar,East,1000,false,Buffet,4.4,Buffet,Unlimited
+Cappuccino Blast,Gomti Nagar,East,400,true,Coffee,4.3,Cafe,Hangout
+Baati Chokha,Gomti Nagar,East,250,true,Litti Chokha,4.5,Traditional,Authentic
+Sakhawat,Chowk,Old Lucknow,300,false,Kebab,4.3,Street Food,Hidden gem
+Pizza Hut,Multiple,All,400,true,Pizza,4.2,Fast Food,Dine-in
+Wow Momo,Phoenix Mall,East,200,true,Momos,4.1,Fast Food,Snacks
+Urban Terrace,Gomti Nagar,East,700,false,North Indian,4.4,Rooftop,Ambience
+Jassi Paratha,Aliganj,North,200,true,Paratha,4.3,Casual,Tasty
+Curry Leaf,Indira Nagar,East,300,true,Dosa,4.4,Casual,South Indian
+Sharma Tea,Lalbagh,Central,100,true,Tea;Bun Maska,4.6,Street Food,Famous chai
+Marksmen,Hazratganj,Central,200,true,Desserts,4.5,Dessert,Pastries
+Prakash Kulfi,Aminabad,Central,100,true,Kulfi,4.7,Street Food,Iconic
+Chocolate Room,Gomti Nagar,East,400,true,Chocolate,4.3,Cafe,Chocolate lovers
+Mainland China,Gomti Nagar,East,900,false,Chinese,4.4,Fine Dining,Premium
+Bikanervala,Gomti Nagar,East,250,true,Snacks,4.3,Casual,Family
+Yellow Chilli,Gomti Nagar,East,700,false,Indian,4.4,Fine Dining,Chef special
+Sagar Ratna,Hazratganj,Central,300,true,South Indian,4.2,Casual,Dosa
+Aryan Delight,Alambagh,South,250,true,North Indian,4.1,Family,Budget
+Kalika Hut,Aliganj,North,200,true,Fast Food,4.0,Casual,Snacks
+The Terrace,Gomti Nagar,East,650,false,Chinese,4.3,Rooftop,Good view
+Open Air,Gomti Nagar,East,500,true,Snacks,4.2,Cafe,Chill vibe
+Mocha Cafe,Gomti Nagar,East,600,true,Coffee,4.4,Cafe,Popular
+Cafe Repertwahr,Gomti Nagar,East,500,true,Italian,4.3,Cafe,Theatre vibe
+Lord of Drinks,Gomti Nagar,East,900,false,Continental,4.5,Lounge,Premium
+Pirates Deck,Gomti Nagar,East,800,false,Bar Food,4.3,Lounge,Theme
+The Square,Gomti Nagar,East,1000,false,Buffet,4.5,Fine Dining,Hotel dining
+Clarks Awadh,Hazratganj,Central,1200,false,Indian,4.6,Fine Dining,Luxury
+Capoor & Sons,Gomti Nagar,East,400,true,Desserts,4.4,Cafe,Trendy
+Cafe 1991,Gomti Nagar,East,350,true,Snacks,4.2,Cafe,Students
+Food Chowk,Aliganj,North,200,true,Street Food,4.1,Street,Budget
+Rovers Cafe,Gomti Nagar,East,300,true,Snacks,4.2,Cafe,Students
+Cafe Delhi Heights,Gomti Nagar,East,600,false,Burgers,4.3,Casual,Modern
+The Mughal's Dastarkhwan,Chowk,Old,350,false,Mughlai,4.5,Family,Authentic
+Naushijaan,Chowk,Old,400,false,Kebab,4.6,Street,Traditional
+Netram Kachori,Chowk,Old,150,true,Kachori,4.5,Street,Breakfast
+Jain Chat,Hazratganj,Central,200,true,Chaat,4.4,Street,Popular
+Bombay Pav Bhaji,Hazratganj,Central,250,true,Pav Bhaji,4.3,Street,Good taste
+Aryans Restaurant,Indira Nagar,East,300,true,North Indian,4.2,Family,Affordable
+Foodie Junction,Gomti Nagar,East,350,true,Fast Food,4.1,Casual,Quick
+Taste of China,Gomti Nagar,East,400,false,Chinese,4.2,Casual,Decent
+Roll Express,Aliganj,North,200,false,Rolls,4.1,Street,Quick
+Kathi Nation,Gomti Nagar,East,250,false,Kathi Roll,4.2,Fast Food,Popular
+Burger Singh,Gomti Nagar,East,300,true,Burgers,4.3,Fast Food,Indian twist
+Chai Point,Gomti Nagar,East,150,true,Tea,4.2,Cafe,Chill
+Tea Trails,Gomti Nagar,East,250,true,Tea,4.3,Cafe,Variety
+Waffle House,Gomti Nagar,East,300,true,Waffles,4.4,Dessert,Sweet lovers
+Frozen Bottle,Gomti Nagar,East,350,true,Milkshake,4.3,Dessert,Trendy
+Cream Stone,Gomti Nagar,East,300,true,Ice Cream,4.4,Dessert,Cold treats
+Naturals Ice Cream,Gomti Nagar,East,250,true,Ice Cream,4.5,Dessert,Natural taste
+KFC,Gomti Nagar,East,400,false,Fried Chicken,4.2,Fast Food,Popular
+Subway,Gomti Nagar,East,300,true,Subs,4.1,Fast Food,Healthy
+Haldiram's,Gomti Nagar,East,300,true,Snacks,4.3,Casual,Trusted
+Madhurima,Hazratganj,Central,250,true,South Indian,4.2,Casual,Simple
+Ritz Continental,Gomti Nagar,East,800,false,Multi Cuisine,4.4,Fine Dining,Premium
+The Lantern,Gomti Nagar,East,700,false,Asian,4.3,Fine Dining,Stylish
+BBQ Company,Gomti Nagar,East,900,false,Buffet,4.3,Buffet,Grill
+Masaki,Gomti Nagar,East,1000,false,Japanese,4.5,Fine Dining,Sushi
+Vintage Machine,Gomti Nagar,East,700,false,Italian,4.3,Cafe,Ambience
+Cafe Coffee Day,Multiple,All,250,true,Coffee,4.1,Cafe,Standard
+CCD Lounge,Gomti Nagar,East,300,true,Coffee,4.2,Cafe,Relaxed
+Food Adda,Indira Nagar,East,200,true,Snacks,4.0,Casual,Budget
+Snack Shack,Aliganj,North,150,true,Fast Food,4.0,Street,Cheap
+Street Bites,Chowk,Old,100,true,Street Food,4.1,Street,Local
+Desi Tadka,Gomti Nagar,East,350,false,Indian,4.2,Family,Desi taste
+Urban Bites,Gomti Nagar,East,400,true,Snacks,4.3,Cafe,Modern
+Cafe Beans,Gomti Nagar,East,300,true,Coffee,4.2,Cafe,Calm
+Food Plaza,Gomti Nagar,East,350,true,Multi Cuisine,4.1,Casual,Variety
+Quick Bites,Hazratganj,Central,200,true,Snacks,4.0,Street,Fast
+Spice Hub,Indira Nagar,East,300,false,Indian,4.2,Family,Spicy
+Spice Garden,Gomti Nagar,East,350,true,Paneer Tikka;Dal Makhani,4.2,Family,Good food
+Urban Tadka,Hazratganj,Central,400,false,Chicken Curry;Naan,4.3,Casual,Tasty
+Royal Biryani,Chowk,Old Lucknow,250,false,Biryani,4.4,Street Food,Authentic
+Green Leaf,Indira Nagar,East,300,true,South Indian;Dosa,4.1,Casual,Simple
+Food Fusion,Gomti Nagar,East,450,true,Pizza;Pasta,4.3,Cafe,Cozy
+Taste Point,Aliganj,North,200,true,Snacks;Chaat,4.0,Street,Budget
+Mughal Treat,Chowk,Old Lucknow,500,false,Kebab;Korma,4.5,Family,Rich taste
+Cafe Vibes,Gomti Nagar,East,400,true,Coffee;Desserts,4.4,Cafe,Relaxed
+Street Zaika,Aminabad,Central,150,true,Kachori;Chaat,4.3,Street,Local fav
+Spicy Hub,Indira Nagar,East,350,false,Chicken Tikka,4.2,Casual,Good
+Food Court Plus,Gomti Nagar,East,300,true,Fast Food,4.1,Casual,Quick
+Desi Kitchen,Alambagh,South,250,true,North Indian,4.2,Family,Homely
+Urban Rasoi,Gomti Nagar,East,500,false,Butter Chicken,4.4,Modern,Popular
+Snack Junction,Aliganj,North,150,true,Snacks,4.0,Street,Cheap
+Cafe Chill,Gomti Nagar,East,350,true,Coffee;Sandwich,4.3,Cafe,Students
+Royal Feast,Hazratganj,Central,600,false,Mughlai,4.5,Fine Dining,Premium
+Food Express,Gomti Nagar,East,300,true,Burgers,4.1,Fast Food,Quick
+Green Bites,Indira Nagar,East,250,true,Salads,4.2,Casual,Healthy
+Kebab Corner,Chowk,Old Lucknow,200,false,Kebab,4.4,Street,Authentic
+Pizza Spot,Gomti Nagar,East,400,true,Pizza,4.2,Casual,Good
+Cafe Mocha,Gomti Nagar,East,500,true,Coffee,4.3,Cafe,Chill
+Taste King,Aliganj,North,300,false,Rolls,4.2,Fast Food,Popular
+Food Lovers,Gomti Nagar,East,350,true,Snacks,4.1,Casual,Variety
+Desi Zaika,Indira Nagar,East,300,false,Indian,4.2,Family,Spicy
+Snack Hub,Alambagh,South,200,true,Fast Food,4.0,Street,Budget
+Urban Cafe,Gomti Nagar,East,450,true,Italian,4.3,Cafe,Modern
+Biryani House,Chowk,Old Lucknow,300,false,Biryani,4.5,Street,Classic
+Green Cafe,Gomti Nagar,East,400,true,Vegan,4.2,Cafe,Healthy
+Street Delight,Aminabad,Central,150,true,Chaat,4.3,Street,Famous
+Food Street,Gomti Nagar,East,300,true,Fast Food,4.1,Casual,Quick
+Royal Dine,Hazratganj,Central,700,false,Indian,4.4,Fine Dining,Premium
+Cafe Bliss,Gomti Nagar,East,500,true,Desserts,4.3,Cafe,Sweet
+Snack Stop,Aliganj,North,200,true,Snacks,4.0,Street,Cheap
+Taste Delight,Indira Nagar,East,350,false,Chicken Curry,4.2,Casual,Tasty
+Food Plaza,Gomti Nagar,East,400,true,Multi Cuisine,4.1,Casual,Variety
+Desi Kitchen Plus,Alambagh,South,300,true,North Indian,4.2,Family,Homely
+Urban Spice,Gomti Nagar,East,450,false,Tandoori,4.3,Casual,Good
+Cafe Aroma,Gomti Nagar,East,500,true,Coffee,4.4,Cafe,Relaxing
+Snack Corner,Aliganj,North,150,true,Fast Food,4.0,Street,Budget
+Taste Cafe,Gomti Nagar,East,350,true,Snacks,4.2,Cafe,Cozy
+Ciwaz Veg & Non Veg,Ahmamau,Sultanpur Road,350,false,Chicken Masala;Paneer,5.0,Casual,Great presentation
+Samuh Cafe,Sushant Golf City,South,400,true,Coffee;Sandwiches,4.6,Cafe,Quiet place for coding
+Asia Seven,Phoenix Palassio,Gomti Nagar Ext,800,false,Sushi;Dim sums,4.8,Fine Dining,Premium mall dining
+Biryani By MBA Wala,Sushant Golf City,South,250,false,Handi Biryani,5.0,Street Food,Authentic and budget
+Jamie Oliver's Pizzeria,Phoenix Palassio,Gomti Nagar Ext,700,true,Pizza,4.5,Casual,Modern and trendy
+Plan B Food Court,Sushant Golf City,South,300,true,Multi-cuisine,5.0,Casual,Huge variety car-dine
+Just Suraa Bar & Restro,Arjunganj,Sultanpur Road,600,false,Tandoori Platters,5.0,Lounge,Excellent for groups
+Gola Sizzlers,Lulu Mall,Sushant Golf City,1000,false,Sizzlers,4.5,Family,Iconic sizzlers near campus
+Punjab Grill,Lulu Mall,Sushant Golf City,1000,false,Dal Panjratni,4.9,Fine Dining,Best North Indian
+Oudhyana,Vibhuti Khand,Gomti Nagar,1500,false,Galouti Kebab,4.8,Fine Dining,Royal Awadhi experience
+The Jail Cafe,Vikas Nagar,North,450,true,Shakes;Burgers,4.1,Cafe,Themed prison cafe
+Mashup Cafe And Bar,Vibhuti Khand,Gomti Nagar,750,false,Finger Food,4.3,Lounge,Live music
+Black Brew House,Vibhuti Khand,Gomti Nagar,1000,false,Craft Beer;Continental,4.4,Lounge,Great rooftop
+Giriraj Cafe,Vrindavan Colony,South,900,true,Thali,4.2,Casual,Family dining
+Citrus Cafe,Kanpur Road,South,1500,false,Multi-cuisine,4.5,Fine Dining,Lemon Tree hotel
+Wings Of Fire,Indira Nagar,East,750,true,Chicken Wings,4.0,Casual,Spicy treats
+Lucknow Kitchen,Nirala Nagar,North,550,true,North Indian,4.3,Casual,Clean and tasty
+Skylords,Gomti Nagar,East,650,false,Chinese,4.1,Rooftop,City view
+Tehzeeb Restaurant,Vikas Nagar,North,500,true,Kebab,4.2,Traditional,Affordable
+Swaad Anusaar,Arjunganj,Sultanpur Road,300,true,Thali,4.0,Casual,Student budget
+Lucknow Darbar,Ahmamau,Sultanpur Road,400,false,Mughlai,4.2,Casual,Near IIITL
+Biryani Bowl,Gomti Nagar Ext,East,250,false,Biryani,4.1,Takeaway,Quick meal
+Bhukkad Breakfast,Arjunganj,Sultanpur Road,150,true,Paratha;Poha,4.4,Street,Morning spot
+Siddhu Punjabi Bhojnalaya,Sushant Golf City,South,200,true,Dal Makhani,4.2,Casual,Dhaba style
+Meet-Preet Bhojanalya,Gomti Nagar Ext,East,250,true,North Indian,4.0,Casual,Student meals
+Pablo's Kitchen,Sushant Golf City,South,400,true,Pasta;Pizza,4.3,Cafe,Modern
+Joyful Food Cafe,Ahmamau,Sultanpur Road,300,true,Sandwiches,4.5,Cafe,Affordable
+Hudaba Classic,Sushant Golf City,South,500,false,Biryani,4.2,Family,Near Lulu Mall
+Mutual Flavours,Gomti Nagar,East,350,true,Chinese,4.1,Casual,Quick service
+Anjali Khana Khajana,Golf City,South,250,true,Home Style Food,4.4,Casual,Healthy
+Sardar Ji Ke Chhole Bhature,Lalbagh,Central,150,true,Chhole Bhature,4.6,Street,Legendary
+Bajpai Puris,Hazratganj,Central,120,true,Poori Sabji,4.7,Street,Iconic breakfast
+GPO Dahi Bade,Hazratganj,Central,100,true,Dahi Wada,4.8,Street,Must try
+Nukkad Cafe,Kapoorthala,North,450,true,Coffee;Pasta,4.2,Cafe,Student hub
+Maharaja Chaap,Aliganj,North,200,true,Soya Chaap,4.3,Street,Best chaap
+Chennai Hot Chips,Aliganj,North,150,true,Banana Chips,4.1,Snacks,Quick bites
+King Soya Chaap,Engineering College,North,200,true,Afghani Chaap,4.0,Street,Student favorite
+The Flavoursome Cuisine,Jankipuram,North,250,true,Momo;Noodles,4.2,Casual,Affordable
+Billard's Cafe,Gomti Nagar,East,200,true,Shakes;Snacks,4.9,Cafe,Fun environment
+Bikaner Express,Gomti Nagar,East,300,true,Sweets;Snacks,4.7,Casual,Reliable
+Champaran Zaika,Gomti Nagar,East,600,false,Handi Meat,4.5,Traditional,Authentic
+The Manish Eating Point,Gomti Nagar,East,400,false,Roasted Chicken,4.2,Casual,Local fav
+Molecule Air Bar,Gomti Nagar,East,1200,false,Cocktails;Fusion,4.6,Lounge,Trendy
+Vint Club,Sushant Golf City,South,800,false,Continental,4.8,Lounge,Luxury
+Poseidon,Sushant Golf City,South,700,false,Asian,4.5,Fine Dining,Ranbirs
+Ten 11 Restro,Gomti Nagar,East,500,false,North Indian,4.1,Lounge,Chill
+La Pino'z Pizza,Arjunganj,Sultanpur Road,400,true,Pizza,4.3,Fast Food,Cheesy
+Pizzatarian,Arjunganj,Sultanpur Road,350,true,Pizza,4.2,Fast Food,Budget friendly
+Lucknow Sandwich Co,Nilmatha,South,200,true,Sandwiches,4.4,Takeaway,Quick
+Delicious Delight,Sushant Golf City,South,300,true,Cakes;Snacks,4.1,Bakery,Fresh
+The Pizza Dine,Arjunganj,Sultanpur Road,350,true,Pizza,4.0,Casual,Student spot
+Yo Yo Foodiez,Sushant Golf City,South,250,true,Fast Food,4.1,Street,Affordable
+Moonlight Veg Momo,Nilmatha,South,150,true,Momos,4.3,Street,Tasty
+The Social Kettle,Vrindavan Colony,South,400,true,Tea;Snacks,4.2,Cafe,Chill
+Viceroy Club,Chakganjaria,South,900,false,Multi-cuisine,4.5,Lounge,Premium
+Shri Balaji Hotel,Sultanpur Road,South,250,true,Thali,4.4,Casual,Home style
+New Janta Dhaba,Sultanpur Road,South,200,true,Tandoori Roti;Dal,4.3,Casual,Dhaba
+Kapoorthala Ki Chaat,Kapoorthala,North,100,true,Aloo Tikki,4.5,Street,Local fav
+Engineering College Momos,Jankipuram,North,120,true,Steamed Momos,4.2,Street,Student budget
+Kapoorthala Roll,Kapoorthala,North,150,false,Egg Roll,4.1,Street,Quick snack
+Gomti Nagar Burger,Gomti Nagar,East,100,true,Aloo Burger,4.0,Street,Cheap
+Hazratganj Paan,Hazratganj,Central,50,true,Meetha Paan,4.9,Street,Iconic
+Aminabad Ki Rewri,Aminabad,Central,200,true,Rewri;Gajak,4.8,Street,Traditional
+Chowk Ki Nihari,Chowk,Old,250,false,Nihari Kulcha,4.7,Street,Morning breakfast
+Kapoorthala Coffee,Kapoorthala,North,80,true,Cold Coffee,4.3,Street,Student drink
+Aliganj Ki Kachori,Aliganj,North,60,true,Khasta Kachori,4.4,Street,Breakfast
+Indira Nagar Momos,Indira Nagar,East,100,true,Fried Momos,4.2,Street,Quick
+Gomti Nagar Maggi,Gomti Nagar,East,60,true,Masala Maggi,4.5,Street,Late night
+Jankipuram Tea,Jankipuram,North,20,true,Ginger Tea,4.6,Street,Classic
+Kapoorthala Chowmein,Kapoorthala,North,80,true,Veg Chowmein,4.1,Street,Budget
+Aliganj Roll Corner,Aliganj,North,120,false,Chicken Roll,4.3,Street,Filling
+Hazratganj Kulfi,Hazratganj,Central,80,true,Falooda Kulfi,4.7,Street,Sweet
+Aminabad Biryani,Aminabad,Central,200,false,Awadhi Biryani,4.6,Street,Flavorful
+Chowk Lassi,Chowk,Old,60,true,Kulhad Lassi,4.8,Street,Refreshing
+Kapoorthala Tikki,Kapoorthala,North,70,true,Aloo Tikki,4.4,Street,Crispy
+Indira Nagar Chaat,Indira Nagar,East,80,true,Pani Puri,4.5,Street,Popular
+Gomti Nagar Pasta,Gomti Nagar,East,120,true,White Sauce Pasta,4.2,Street,Cheap
+Jankipuram Burger,Jankipuram,North,90,true,Veg Burger,4.1,Street,Snack
+Kapoorthala Shakes,Kapoorthala,North,100,true,Mango Shake,4.3,Street,Seasonal
+Aliganj Momos,Aliganj,North,100,true,Paneer Momos,4.2,Street,Tasty
+Hazratganj Sandwich,Hazratganj,Central,120,true,Grilled Sandwich,4.4,Street,Quick
+Aminabad Kebab,Aminabad,Central,150,false,Seekh Kebab,4.6,Street,Meaty
+Chowk Mithai,Chowk,Old,200,true,Malai Gilori,4.9,Street,Traditional
+Kapoorthala Paratha,Kapoorthala,North,100,true,Aloo Paratha,4.3,Street,Heavy
+Indira Nagar Coffee,Indira Nagar,East,70,true,Hot Coffee,4.2,Street,Morning
+Gomti Nagar Roll,Gomti Nagar,East,130,false,Mutton Roll,4.5,Street,Spicy
+Jankipuram Chaat,Jankipuram,North,60,true,Papdi Chaat,4.4,Street,Evening
+Kapoorthala Maggi,Kapoorthala,North,70,true,Cheese Maggi,4.6,Street,Late night
+Aliganj Tea,Aliganj,North,30,true,Masala Tea,4.5,Street,Classic
+Hazratganj Juice,Hazratganj,Central,80,true,Mixed Fruit,4.3,Street,Fresh
+Aminabad Sweets,Aminabad,Central,300,true,Kaju Katli,4.7,Traditional,Gifting
+Chowk Non-Veg,Chowk,Old,400,false,Mutton Korma,4.8,Traditional,Rich
+Kapoorthala Snacks,Kapoorthala,North,50,true,Samosa,4.4,Street,Classic
+Indira Nagar Fast Food,Indira Nagar,East,150,true,Veg Noodles,4.1,Street,Quick
+Gomti Nagar Drinks,Gomti Nagar,East,90,true,Lemonade,4.4,Street,Summer
+Jankipuram Sweets,Jankipuram,North,150,true,Jalebi,4.6,Street,Morning
+Kapoorthala Bakery,Kapoorthala,North,200,true,Pastry,4.2,Bakery,Snack
+Aliganj Shakes,Aliganj,North,120,true,Chocolate Shake,4.3,Street,Sweet
+Hazratganj Bakery,Hazratganj,Central,400,true,Cookies,4.5,Bakery,Premium
+Aminabad Snacks,Aminabad,Central,100,true,Namkeen,4.4,Traditional,Local
+Chowk Street,Chowk,Old,120,true,Kachori Sabji,4.7,Street,Authentic
+Kapoorthala Juice,Kapoorthala,North,70,true,Sugarcane,4.5,Street,Fresh
+Indira Nagar Bakery,Indira Nagar,East,250,true,Brownie,4.3,Bakery,Treat
+Gomti Nagar Sweets,Gomti Nagar,East,200,true,Gulab Jamun,4.4,Street,Warm
+Jankipuram Snacks,Jankipuram,North,80,true,Bread Pakoda,4.2,Street,Classic
+Kapoorthala Fast Food,Kapoorthala,North,150,true,Spring Roll,4.1,Street,Crispy
+Aliganj Bakery,Aliganj,North,300,true,Birthday Cake,4.4,Bakery,Custom
+Hazratganj Drinks,Hazratganj,Central,100,true,Iced Tea,4.2,Street,Refreshing
+Aminabad Drinks,Aminabad,Central,60,true,Lassi,4.6,Street,Traditional
+Chowk Drinks,Chowk,Old,80,true,Thandai,4.9,Street,Famous
+Kapoorthala Sweets,Kapoorthala,North,250,true,Rasmalai,4.5,Street,Sweet
+Indira Nagar Drinks,Indira Nagar,East,90,true,Cold Drink,4.0,Street,Quick
+Gomti Nagar Bakery,Gomti Nagar,East,350,true,Cupcake,4.3,Bakery,Trendy
+Jankipuram Drinks,Jankipuram,North,40,true,Butter Milk,4.4,Street,Healthy
+Kapoorthala Momos,Kapoorthala,North,100,true,Veg Steamed,4.2,Street,Budget
+Aliganj Chaat,Aliganj,North,70,true,Basket Chaat,4.3,Street,Tasty
+Hazratganj Fast Food,Hazratganj,Central,200,true,Veg Burger,4.1,Street,Quick
+Aminabad Bakery,Aminabad,Central,150,true,Muffins,4.2,Bakery,Soft
+Chowk Sweets,Chowk,Old,300,true,Imarti,4.8,Street,Iconic
+Kapoorthala Roll Corner,Kapoorthala,North,120,false,Egg Chicken,4.3,Street,Popular
+Indira Nagar Roll,Indira Nagar,East,150,false,Kebab Roll,4.4,Street,Spicy
+Gomti Nagar Chaat,Gomti Nagar,East,90,true,Aloo Tikki,4.5,Street,Classic
+Jankipuram Roll,Jankipuram,North,100,false,Veg Roll,4.0,Street,Quick
+Kapoorthala Coffee Bar,Kapoorthala,North,150,true,Cappuccino,4.4,Cafe,Student
+Aliganj Coffee,Aliganj,North,130,true,Latte,4.2,Cafe,Relax
+Hazratganj Tea,Hazratganj,Central,50,true,Irani Tea,4.6,Street,Classic
+Aminabad Tea,Aminabad,Central,40,true,Kullad Tea,4.5,Street,Authentic
+Chowk Tea,Chowk,Old,30,true,Special Tea,4.7,Street,Morning
+Kapoorthala Shakes Bar,Kapoorthala,North,180,true,Oreo Shake,4.3,Cafe,Cool
+Indira Nagar Shakes,Indira Nagar,East,160,true,Kitkat Shake,4.2,Cafe,Sweet
+Gomti Nagar Shakes,Gomti Nagar,East,170,true,Strawberry,4.4,Cafe,Fresh
+Jankipuram Shakes,Jankipuram,North,140,true,Vanilla Shake,4.1,Cafe,Budget
+Kapoorthala Pizza,Kapoorthala,North,400,true,Farmhouse,4.2,Casual,Group
+Aliganj Pizza,Aliganj,North,350,true,Margherita,4.3,Casual,Quick
+Hazratganj Pizza,Hazratganj,Central,500,true,Veggie Paradise,4.4,Casual,Dine
+Aminabad Pizza,Aminabad,Central,300,true,Paneer Pizza,4.1,Casual,Affordable
+Chowk Pizza,Chowk,Old,250,true,Cheese Pizza,4.0,Casual,Local
+Kapoorthala Pasta,Kapoorthala,North,300,true,Red Sauce,4.3,Casual,Tasty
+Aliganj Pasta,Aliganj,North,280,true,White Sauce,4.2,Casual,Creamy
+Hazratganj Pasta,Hazratganj,Central,450,true,Arrabiata,4.5,Casual,Authentic
+Aminabad Pasta,Aminabad,Central,250,true,Mix Sauce,4.1,Casual,Budget
+Chowk Pasta,Chowk,Old,200,true,Veg Pasta,4.0,Casual,Simple
+Kapoorthala Burger,Kapoorthala,North,250,true,Cheese Burger,4.2,Casual,Student
+Aliganj Burger,Aliganj,North,220,true,Aloo Tikki,4.1,Casual,Quick
+Hazratganj Burger,Hazratganj,Central,400,true,Maharaja,4.4,Casual,Heavy
+Aminabad Burger,Aminabad,Central,200,true,Veggie Burger,4.0,Casual,Budget
+Chowk Burger,Chowk,Old,150,true,Local Burger,3.9,Casual,Cheap
+Kapoorthala Noodles,Kapoorthala,North,200,true,Hakka Noodles,4.3,Casual,Tasty
+Aliganj Noodles,Aliganj,North,180,true,Schezwan,4.2,Casual,Spicy
+Hazratganj Noodles,Hazratganj,Central,350,true,Veg Noodles,4.4,Casual,Good
+Aminabad Noodles,Aminabad,Central,150,true,Fried Noodles,4.1,Casual,Budget
+Chowk Noodles,Chowk,Old,120,true,Street Noodles,4.0,Casual,Simple
+Kapoorthala Chinese,Kapoorthala,North,500,true,Manchurian,4.2,Casual,Family
+Aliganj Chinese,Aliganj,North,450,true,Chilli Paneer,4.3,Casual,Group
+Hazratganj Chinese,Hazratganj,Central,700,true,Honey Chilli,4.5,Casual,Fine
+Aminabad Chinese,Aminabad,Central,400,true,Veg Fried Rice,4.1,Casual,Budget
+Chowk Chinese,Chowk,Old,300,true,Chinese Combo,4.0,Casual,Local
+Kapoorthala South Indian,Kapoorthala,North,300,true,Masala Dosa,4.4,Casual,Student
+Aliganj South Indian,Aliganj,North,280,true,Idli Sambar,4.3,Casual,Quick
+Hazratganj South Indian,Hazratganj,Central,450,true,Vada,4.5,Casual,Authentic
+Aminabad South Indian,Aminabad,Central,250,true,Uttapam,4.2,Casual,Budget
+Chowk South Indian,Chowk,Old,200,true,Plain Dosa,4.1,Casual,Simple
+Kapoorthala North Indian,Kapoorthala,North,400,true,Paneer Butter,4.4,Family,Tasty
+Aliganj North Indian,Aliganj,North,380,true,Dal Makhani,4.3,Family,Good
+Hazratganj North Indian,Hazratganj,Central,600,true,Shahi Paneer,4.6,Family,Royal
+Aminabad North Indian,Aminabad,Central,350,true,Mix Veg,4.2,Family,Budget
+Chowk North Indian,Chowk,Old,300,true,Thali,4.1,Family,Local
+Kapoorthala Thali,Kapoorthala,North,250,true,Veg Thali,4.3,Casual,Student
+Aliganj Thali,Aliganj,North,230,true,Mini Thali,4.2,Casual,Quick
+Hazratganj Thali,Hazratganj,Central,500,true,Executive,4.5,Casual,Fine
+Aminabad Thali,Aminabad,Central,200,true,Special Thali,4.1,Casual,Budget
+Chowk Thali,Chowk,Old,150,true,Economic Thali,4.0,Casual,Cheap
+Kapoorthala Desserts,Kapoorthala,North,200,true,Ice Cream,4.4,Dessert,Sweet
+Aliganj Desserts,Aliganj,North,180,true,Pastry,4.3,Dessert,Quick
+Hazratganj Desserts,Hazratganj,Central,400,true,Waffle,4.6,Dessert,Premium
+Aminabad Desserts,Aminabad,Central,150,true,Brownie,4.2,Dessert,Budget
+Chowk Desserts,Chowk,Old,120,true,Kulfi,4.7,Dessert,Traditional
+Kapoorthala Shakes,Kapoorthala,North,150,true,Butterscotch,4.3,Cafe,Cool
+Aliganj Shakes,Aliganj,North,140,true,Vanilla,4.2,Cafe,Budget
+Hazratganj Shakes,Hazratganj,Central,300,true,Cold Coffee,4.5,Cafe,Premium
+Aminabad Shakes,Aminabad,Central,120,true,Banana Shake,4.1,Cafe,Healthy
+Chowk Shakes,Chowk,Old,100,true,Lassi Shake,4.4,Cafe,Local
+Kapoorthala Snacks,Kapoorthala,North,100,true,Veg Sandwich,4.2,Cafe,Student
+Aliganj Snacks,Aliganj,North,90,true,Patties,4.1,Cafe,Quick
+Hazratganj Snacks,Hazratganj,Central,250,true,Club Sandwich,4.4,Cafe,Tasty
+Aminabad Snacks,Aminabad,Central,120,true,Bread Omelette,4.3,Street,Classic
+Chowk Snacks,Chowk,Old,80,true,Bun Maska,4.5,Street,Morning
+Kapoorthala Rolls,Kapoorthala,North,150,false,Chicken Roll,4.3,Street,Student
+Aliganj Rolls,Aliganj,North,140,false,Egg Roll,4.2,Street,Quick
+Hazratganj Rolls,Hazratganj,Central,300,false,Kebab Roll,4.5,Street,Authentic
+Aminabad Rolls,Aminabad,Central,200,false,Mutton Roll,4.4,Street,Spicy
+Chowk Rolls,Chowk,Old,120,false,Veg Roll,4.0,Street,Simple
+Kapoorthala Momos,Kapoorthala,North,120,true,Fried Momos,4.3,Street,Student
+Aliganj Momos,Aliganj,North,110,true,Steamed,4.2,Street,Quick
+Hazratganj Momos,Hazratganj,Central,250,true,Tandoori,4.5,Street,Tasty
+Aminabad Momos,Aminabad,Central,150,true,Paneer,4.1,Street,Budget
+Chowk Momos,Chowk,Old,100,true,Veg Steamed,4.0,Street,Simple
+Kapoorthala Coffee,Kapoorthala,North,120,true,Hot Coffee,4.2,Cafe,Student
+Aliganj Coffee,Aliganj,North,110,true,Espresso,4.1,Cafe,Quick
+Hazratganj Coffee,Hazratganj,Central,350,true,Cold Brew,4.5,Cafe,Premium
+Aminabad Coffee,Aminabad,Central,100,true,Black Coffee,4.0,Cafe,Budget
+Chowk Coffee,Chowk,Old,80,true,Special Coffee,4.3,Cafe,Local
+Kapoorthala Tea,Kapoorthala,North,50,true,Lemon Tea,4.4,Street,Student
+Aliganj Tea,Aliganj,North,40,true,Green Tea,4.3,Street,Healthy
+Hazratganj Tea,Hazratganj,Central,150,true,Assam Tea,4.6,Cafe,Premium
+Aminabad Tea,Aminabad,Central,30,true,Ginger Tea,4.5,Street,Classic
+Chowk Tea,Chowk,Old,25,true,Masala Tea,4.7,Street,Morning
+Kapoorthala Juice,Kapoorthala,North,80,true,Orange Juice,4.3,Street,Student
+Aliganj Juice,Aliganj,North,70,true,Apple Juice,4.2,Street,Fresh
+Hazratganj Juice,Hazratganj,Central,150,true,Pomegranate,4.5,Street,Healthy
+Aminabad Juice,Aminabad,Central,60,true,Pineapple,4.4,Street,Sweet
+Chowk Juice,Chowk,Old,50,true,Mixed Fruit,4.3,Street,Local
+Kapoorthala Sweets,Kapoorthala,North,300,true,Ladoo,4.5,Sweets,Traditional
+Aliganj Sweets,Aliganj,North,280,true,Barfi,4.4,Sweets,Quick
+Hazratganj Sweets,Hazratganj,Central,500,true,Premium Sweets,4.7,Sweets,Gifting
+Aminabad Sweets,Aminabad,Central,250,true,Bengali Sweets,4.6,Sweets,Authentic
+Chowk Sweets,Chowk,Old,200,true,Indian Mithai,4.3,Sweets,Local
+Kapoorthala Bakery,Kapoorthala,North,150,true,Veg Puff,4.2,Bakery,Student
+Aliganj Bakery,Aliganj,North,140,true,Cream Roll,4.1,Bakery,Quick
+Hazratganj Bakery,Hazratganj,Central,400,true,Artisan Bread,4.5,Bakery,Premium
+Aminabad Bakery,Aminabad,Central,100,true,Rusk,4.3,Bakery,Classic
+Chowk Bakery,Chowk,Old,80,true,Biscuits,4.4,Bakery,Local
+Kapoorthala Fast Food,Kapoorthala,North,100,true,Aloo Patties,4.2,Street,Student
+Aliganj Fast Food,Aliganj,North,90,true,Veg Cutlet,4.1,Street,Quick
+Hazratganj Fast Food,Hazratganj,Central,300,true,Cheese Fries,4.5,Street,Trendy
+Aminabad Fast Food,Aminabad,Central,150,true,Bread Pakoda,4.3,Street,Classic
+Chowk Fast Food,Chowk,Old,100,true,Samosa Chaat,4.4,Street,Authentic
+Kapoorthala North Indian,Kapoorthala,North,250,true,Chole Kulche,4.3,Street,Student
+Aliganj North Indian,Aliganj,North,230,true,Rajma Chawal,4.2,Street,Home style
+Hazratganj North Indian,Hazratganj,Central,400,true,Amritsari Kulcha,4.5,Street,Tasty
+Aminabad North Indian,Aminabad,Central,200,true,Kadhi Chawal,4.1,Street,Budget
+Chowk North Indian,Chowk,Old,150,true,Poori Sabji,4.6,Street,Classic
+Kapoorthala South Indian,Kapoorthala,North,150,true,Paper Dosa,4.2,Street,Budget
+Aliganj South Indian,Aliganj,North,130,true,Vada Sambar,4.1,Street,Quick
+Hazratganj South Indian,Hazratganj,Central,300,true,Onion Uttapam,4.4,Street,Tasty
+Aminabad South Indian,Aminabad,Central,180,true,Rava Dosa,4.3,Street,Classic
+Chowk South Indian,Chowk,Old,120,true,Idli Fry,4.0,Street,Simple
+Kapoorthala Chinese,Kapoorthala,North,150,true,Veg Manchurian,4.1,Street,Cheap
+Aliganj Chinese,Aliganj,North,140,true,Honey Potato,4.0,Street,Quick
+Hazratganj Chinese,Hazratganj,Central,350,true,Chilli Chicken,4.4,Street,Spicy
+Aminabad Chinese,Aminabad,Central,200,true,Fried Rice,4.2,Street,Budget
+Chowk Chinese,Chowk,Old,120,true,Veg Chowmein,4.0,Street,Simple
