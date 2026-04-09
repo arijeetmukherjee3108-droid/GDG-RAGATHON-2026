@@ -1,0 +1,68 @@
+.restaurant-card {
+  background: white;
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  box-shadow: var(--shadow-sm);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  cursor: pointer;
+  border: 1px solid rgba(0,0,0,0.04);
+}
+
+.restaurant-card:hover {
+  transform: translateY(-5px);
+  box-shadow: var(--shadow-lg);
+}
+
+.card-image-placeholder {
+  height: 160px;
+  background: linear-gradient(45deg, #fceadb, #ffd8cc);
+  position: relative;
+}
+
+.card-rating {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  background: rgba(255, 255, 255, 0.9);
+  padding: 4px 8px;
+  border-radius: 6px;
+  font-weight: 700;
+  font-size: 0.85rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.card-content {
+  padding: 1.2rem;
+}
+
+.card-title {
+  font-size: 1.2rem;
+  margin-bottom: 0.3rem;
+  color: var(--text-dark);
+}
+
+.card-area {
+  font-size: 0.9rem;
+  color: var(--text-light);
+  margin-bottom: 1rem;
+}
+
+.card-details {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.card-price {
+  color: var(--text-light);
+}
+
+.card-type.veg {
+  color: #16a34a;
+}
+
+.card-type.non-veg {
+  color: #dc2626;
+}
